@@ -1,7 +1,9 @@
 ### Recherche alternance développeuse Java
-** Passionnée par les nouvelles technologies, j'ai à cœur de faire un code propre et
+Passionnée par les nouvelles technologies, j'ai à cœur de faire un code propre et
 réutilisable afin de rendre la collaboration avec mon équipe la plus magique
-possible et pousser les portes du développement. **
+possible et pousser les portes du développement.
+![andrew-neel-cckf4TsHAuw-unsplash](https://github.com/hadhoudda/hadhoudda/assets/120031404/e35575e8-2f07-40a4-b8af-01316234a43f)
+
 ## Languages
 ![image](https://github.com/hadhoudda/hadhoudda/assets/120031404/f87cf3cb-8c33-47d3-87ba-04970cc32f4a)
 ![image](https://github.com/hadhoudda/hadhoudda/assets/120031404/88fe75da-9614-42ee-921e-55ce23ff1e18)
