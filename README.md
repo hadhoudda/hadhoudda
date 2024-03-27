@@ -1,4 +1,11 @@
-### Hi HOUDA 👋
+### Recherche alternance développeuse Java
+** Passionnée par les nouvelles technologies, j'ai à cœur de faire un code propre et
+réutilisable afin de rendre la collaboration avec mon équipe la plus magique
+possible et pousser les portes du développement. **
+## Languages
+HTMl ![image](https://github.com/hadhoudda/hadhoudda/assets/120031404/f87cf3cb-8c33-47d3-87ba-04970cc32f4a)
+
+
 
 <!--
 **hadhoudda/hadhoudda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
