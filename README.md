@@ -7,5 +7,5 @@ concrètes tout en étant un contributeur actif au succès de l'entreprise qui
 m'accueillera.**
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,sass,java,spring,maven,js,react,nodejs,mongodb,mysql,idea,vscode,postman&perline=6)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,java,spring,maven,js,react,nodejs,mongodb,mysql,sqlite,idea,eclipse,vscode,git,postman,notion,figma)](https://skillicons.dev)
 
